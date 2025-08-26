@@ -1,4 +1,4 @@
-# CrowdWisdomTrading AI Agent — Internship Assessment
+# CrowdWisdomTrading AI Agent 
 
 CLI project using CrewAI-style flow, guardrails, and litellm. Produces per-user sentiment,
 tickers, and a PDF report. Works offline in mock mode; with keys it uses litellm.
