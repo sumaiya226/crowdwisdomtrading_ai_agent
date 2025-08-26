@@ -1,0 +1,2242 @@
+{
+  "users_processed": [
+    "user1",
+    "user2",
+    "user3",
+    "user4",
+    "user5",
+    "user6",
+    "user7",
+    "user8",
+    "user9",
+    "user10"
+  ],
+  "results": {
+    "user1": {
+      "username": "user1",
+      "per_tweet": [
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        }
+      ],
+      "avg_sentiment": -0.10000000000000002,
+      "tickers": [
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bearish",
+          "confidence": 0.667
+        }
+      ]
+    },
+    "user2": {
+      "username": "user2",
+      "per_tweet": [
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        }
+      ],
+      "avg_sentiment": 0.022222222222222216,
+      "tickers": [
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "neutral",
+          "confidence": 0.0
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "bearish",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user3": {
+      "username": "user3",
+      "per_tweet": [
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        }
+      ],
+      "avg_sentiment": -0.03333333333333334,
+      "tickers": [
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "bullish",
+          "confidence": 0.6
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bearish",
+          "confidence": 0.8
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user4": {
+      "username": "user4",
+      "per_tweet": [
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        }
+      ],
+      "avg_sentiment": -0.01111111111111113,
+      "tickers": [
+        {
+          "ticker": "TSLA",
+          "direction": "neutral",
+          "confidence": 0.0
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bearish",
+          "confidence": 0.75
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user5": {
+      "username": "user5",
+      "per_tweet": [
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        }
+      ],
+      "avg_sentiment": 0.04444444444444443,
+      "tickers": [
+        {
+          "ticker": "TSLA",
+          "direction": "bearish",
+          "confidence": 0.6
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bullish",
+          "confidence": 0.667
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user6": {
+      "username": "user6",
+      "per_tweet": [
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        }
+      ],
+      "avg_sentiment": 0.06666666666666665,
+      "tickers": [
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "bullish",
+          "confidence": 0.6
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "neutral",
+          "confidence": 0.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user7": {
+      "username": "user7",
+      "per_tweet": [
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        }
+      ],
+      "avg_sentiment": 0.08888888888888889,
+      "tickers": [
+        {
+          "ticker": "TSLA",
+          "direction": "bullish",
+          "confidence": 0.833
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bullish",
+          "confidence": 0.667
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user8": {
+      "username": "user8",
+      "per_tweet": [
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        }
+      ],
+      "avg_sentiment": 0.08888888888888888,
+      "tickers": [
+        {
+          "ticker": "TSLA",
+          "direction": "neutral",
+          "confidence": 0.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bullish",
+          "confidence": 0.6
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user9": {
+      "username": "user9",
+      "per_tweet": [
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Loading up more on $TSLA, long-term conviction unchanged.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        }
+      ],
+      "avg_sentiment": 0.06666666666666667,
+      "tickers": [
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "bullish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bearish",
+          "confidence": 0.6
+        },
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    },
+    "user10": {
+      "username": "user10",
+      "per_tweet": [
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Love the product updates. $GOOGL AI push is impressive.",
+          "sentiment": "positive",
+          "score": 1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Trimming $NVDA \u2014 valuation feels stretched.",
+          "sentiment": "negative",
+          "score": -0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Selling my $COIN position; exchange risks.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "No positions mentioned. DYOR.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Feeling bullish on $NVDA after that earnings call! \ud83d\ude80",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Regulatory headwinds could hit $META hard.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Great quarter by $AAPL, services growth looks strong.",
+          "sentiment": "positive",
+          "score": 0.6666666666666666,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "This recession talk makes me cautious on $AMZN.",
+          "sentiment": "negative",
+          "score": -0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Earnings season again. Taking notes.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Watching the market open. Let's see how it plays out.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Solid fundamentals in $MSFT, steady growth.",
+          "sentiment": "positive",
+          "score": 0.3333333333333333,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Reading 10-Ks today. Fundamentals matter.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        },
+        {
+          "text": "Bearish on $TSLA near-term; delivery miss worries me.",
+          "sentiment": "negative",
+          "score": -1.0,
+          "subject": "${m.group(1).upper()}"
+        },
+        {
+          "text": "Rebalancing portfolio, keeping cash ready.",
+          "sentiment": "neutral",
+          "score": 0.0,
+          "subject": "markets"
+        }
+      ],
+      "avg_sentiment": -0.1,
+      "tickers": [
+        {
+          "ticker": "AAPL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "AMZN",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "GOOGL",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "MSFT",
+          "direction": "neutral",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "NVDA",
+          "direction": "bullish",
+          "confidence": 0.667
+        },
+        {
+          "ticker": "COIN",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "TSLA",
+          "direction": "bearish",
+          "confidence": 1.0
+        },
+        {
+          "ticker": "META",
+          "direction": "neutral",
+          "confidence": 1.0
+        }
+      ]
+    }
+  },
+  "errors": {}
+}
